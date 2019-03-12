@@ -21,7 +21,6 @@ _Put an `x` in the boxes that apply. You can also fill these out after creating 
   - Is it referenced in the commit message?
 - [ ] Does your PR title start with WP-XXXX where XXXX is the JIRA number you are trying to resolve? 
   - Pay particular attention to the hyphen "-" character.
-- [ ] Is your initial contribution a single, squashed commit?
 - [ ] Has your PR been rebased against the latest commit within the target branch (typically develop)?
 
 ### Certifications
