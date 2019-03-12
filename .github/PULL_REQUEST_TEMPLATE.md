@@ -29,9 +29,16 @@ _Put an `x` in the boxes that apply. You can also fill these out after creating 
 - [ ] I have validated that all existing unit tests pass locally after my changes.
 - [ ] I have manually tested these changes on my local development system to ensure that they work as designed.
 - [ ] I have added unit tests that prove my code updates are effective or that my feature works.
+- [ ] I have analyzed the area(s) of impact with this change and included them below.
+- [ ] I have assigned ID values for any new HTML elements that have been added to pages.
 - [ ] I have added necessary documentation (if appropriate).
 - [ ] I have externalized all new and updated labels in the respective properties file.
+- [ ] I have run the WAVE tool on any new / updated pages to ensure 508 compliance.
 - [ ] I have updated the JIRA ticket to include all development comments included in this PR.
+
+## Areas of impact
+
+List the areas of the application and/or actions that are impacted with this change.
 
 ## Additional comments
 
