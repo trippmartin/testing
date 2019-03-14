@@ -8,7 +8,6 @@ What types of changes does your code introduce?
 _Put an `x` in the boxes that apply_
 
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-  - What are the other affected areas? Please include this in the ticket so QA can test them.
 
 ## Checklist
 
@@ -27,6 +26,8 @@ _Put an `x` in the boxes that apply. You can also fill these out after creating 
 - [ ] I have validated that all existing unit tests pass locally after my changes.
 - [ ] I have manually tested these changes on my local development system to ensure that they work as designed.
 - [ ] I have added unit tests that prove my code updates are effective or that my feature works.
+  - If the above box is not checked, explain the code/components that don't allow you to write unit tests below so we can revisit them and make them test friendly.
+  - Also, add the no-unit-tests tag to this pull request.
 - [ ] I have analyzed the area(s) of impact with this change and included them below.
 - [ ] I have assigned ID values for any new HTML elements that have been added to pages.
 - [ ] I have added necessary documentation (if appropriate).
