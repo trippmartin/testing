@@ -7,9 +7,8 @@ Describe the big picture of your changes here. If it fixes a bug or implements a
 What types of changes does your code introduce?
 _Put an `x` in the boxes that apply_
 
-- [ ] Bugfix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
+  - What are the other affected areas? Please include this in the ticket so QA can test them.
 
 ## Checklist
 
